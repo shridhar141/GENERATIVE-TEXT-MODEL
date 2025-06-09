@@ -79,8 +79,9 @@ This GPT-2 text generation script is a Python-based console application that all
 
 Designed for simplicity and experimentation, the script showcases the natural language generation capabilities of GPT-2, making it useful for applications like creative writing, content assistance, and conversational AI. With built-in mechanisms to improve output diversity and avoid repetition, it provides a solid foundation for exploring generative language models interactively.
 
+## OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/62487379-179d-4c42-8343-7fed1d9b2e60)
 
 
 
